@@ -1,3 +1,7 @@
+# Adrian Osterried
+# Arndt Glatz
+
+
 ## Aufgabe 4
 rm(list = ls())
 
