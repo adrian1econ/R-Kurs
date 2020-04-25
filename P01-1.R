@@ -1,6 +1,7 @@
 # Adrian Osterried
 # Arndt Glatz
 
+
 ## Aufgabe 1 
 rm(list = ls())
 
@@ -23,4 +24,3 @@ q=c()
 
 for (i in seq_along(b)) q <- c(q,a[i],b[i])
 
-# Köftespieß mit Ayran
